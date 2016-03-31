@@ -1,0 +1,55 @@
+header {
+  width: 980px;
+  height: 100px;
+  margin: auto;
+}
+
+.content {
+  width: 980px;
+  height: 1000px;
+  margin: 0 auto;
+}
+
+ header img {
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  float: left;
+  border: 2px solid black;
+  margin-left: 110px;
+
+}
+
+.author {
+  color: green;
+  float: left;
+  margin-left: 11px;
+}
+
+h1 {
+  font-variant: small-caps;
+  font-size: 50px;
+  text-align: center;
+}
+
+.content img {
+  width: 700px;
+  margin-left: 135px;
+}
+
+p {
+  text-align: justify;
+  line-height: 3rem;
+  width: 600px;
+  margin: 0 auto;
+  font-size: 2rem;
+  margin-top: 30px;
+}
+
+h3 {
+  margin: 0;
+}
+
+h4 {
+  margin: 0;
+}
